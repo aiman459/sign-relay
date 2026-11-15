@@ -1,0 +1,271 @@
+{
+ "source": "UAlpha40 (Mendeley Data, CC BY 4.0); pk-hfad-1 (Mudassar Iqbal, 2023, CC BY 4.0)",
+ "ur": {
+  "ح": {
+   "file": "ur_10.jpg",
+   "type": "image"
+  },
+  "ع": {
+   "file": "ur_25.jpg",
+   "type": "image"
+  },
+  "ا": {
+   "file": "ur_02.jpg",
+   "type": "image"
+  },
+  "ب": {
+   "file": "ur_03.jpg",
+   "type": "image"
+  },
+  "ے": {
+   "file": "ur_40.jpg",
+   "type": "image"
+  },
+  "چ": {
+   "file": "ur_09.jpg",
+   "type": "image"
+  },
+  "ی": {
+   "file": "ur_39.jpg",
+   "type": "image"
+  },
+  "ڈ": {
+   "file": "ur_13.jpg",
+   "type": "image"
+  },
+  "د": {
+   "file": "ur_12.jpg",
+   "type": "image"
+  },
+  "ھ": {
+   "file": "ur_37.jpg",
+   "type": "image"
+  },
+  "ف": {
+   "file": "ur_27.jpg",
+   "type": "image"
+  },
+  "گ": {
+   "file": "ur_30.jpg",
+   "type": "image"
+  },
+  "غ": {
+   "file": "ur_26.jpg",
+   "type": "image"
+  },
+  "ء": {
+   "file": "ur_38.jpg",
+   "type": "image"
+  },
+  "ق": {
+   "file": "ur_28.jpg",
+   "type": "image"
+  },
+  "خ": {
+   "file": "ur_11.jpg",
+   "type": "image"
+  },
+  "ک": {
+   "file": "ur_29.jpg",
+   "type": "image"
+  },
+  "ل": {
+   "file": "ur_31.jpg",
+   "type": "image"
+  },
+  "م": {
+   "file": "ur_32.jpg",
+   "type": "image"
+  },
+  "ن": {
+   "file": "ur_33.jpg",
+   "type": "image"
+  },
+  "ں": {
+   "file": "ur_34.jpg",
+   "type": "image"
+  },
+  "پ": {
+   "file": "ur_04.jpg",
+   "type": "image"
+  },
+  "ر": {
+   "file": "ur_15.jpg",
+   "type": "image"
+  },
+  "ث": {
+   "file": "ur_07.jpg",
+   "type": "image"
+  },
+  "س": {
+   "file": "ur_19.jpg",
+   "type": "image"
+  },
+  "ش": {
+   "file": "ur_20.jpg",
+   "type": "image"
+  },
+  "ص": {
+   "file": "ur_21.jpg",
+   "type": "image"
+  },
+  "ٹ": {
+   "file": "ur_06.jpg",
+   "type": "image"
+  },
+  "ت": {
+   "file": "ur_05.jpg",
+   "type": "image"
+  },
+  "ط": {
+   "file": "ur_23.jpg",
+   "type": "image"
+  },
+  "و": {
+   "file": "ur_35.jpg",
+   "type": "image"
+  },
+  "ذ": {
+   "file": "ur_14.jpg",
+   "type": "image"
+  },
+  "ژ": {
+   "file": "ur_18.jpg",
+   "type": "image"
+  },
+  "ز": {
+   "file": "ur_17.jpg",
+   "type": "image"
+  },
+  "ض": {
+   "file": "ur_22.jpg",
+   "type": "image"
+  },
+  "ظ": {
+   "file": "ur_24.jpg",
+   "type": "image"
+  },
+  "آ": {
+   "file": "ur_01.mp4",
+   "type": "video"
+  },
+  "ج": {
+   "file": "ur_08.mp4",
+   "type": "video"
+  },
+  "ڑ": {
+   "file": "ur_16.mp4",
+   "type": "video"
+  },
+  "ہ": {
+   "file": "ur_36.mp4",
+   "type": "video"
+  }
+ },
+ "en": {
+  "a": {
+   "file": "en_a.mp4",
+   "type": "video"
+  },
+  "b": {
+   "file": "en_b.mp4",
+   "type": "video"
+  },
+  "c": {
+   "file": "en_c.mp4",
+   "type": "video"
+  },
+  "d": {
+   "file": "en_d.mp4",
+   "type": "video"
+  },
+  "e": {
+   "file": "en_e.mp4",
+   "type": "video"
+  },
+  "f": {
+   "file": "en_f.mp4",
+   "type": "video"
+  },
+  "g": {
+   "file": "en_g.mp4",
+   "type": "video"
+  },
+  "h": {
+   "file": "en_h.mp4",
+   "type": "video"
+  },
+  "i": {
+   "file": "en_i.mp4",
+   "type": "video"
+  },
+  "j": {
+   "file": "en_j.mp4",
+   "type": "video"
+  },
+  "k": {
+   "file": "en_k.mp4",
+   "type": "video"
+  },
+  "l": {
+   "file": "en_l.mp4",
+   "type": "video"
+  },
+  "m": {
+   "file": "en_m.mp4",
+   "type": "video"
+  },
+  "n": {
+   "file": "en_n.mp4",
+   "type": "video"
+  },
+  "o": {
+   "file": "en_o.mp4",
+   "type": "video"
+  },
+  "p": {
+   "file": "en_p.mp4",
+   "type": "video"
+  },
+  "q": {
+   "file": "en_q.mp4",
+   "type": "video"
+  },
+  "r": {
+   "file": "en_r.mp4",
+   "type": "video"
+  },
+  "s": {
+   "file": "en_s.mp4",
+   "type": "video"
+  },
+  "t": {
+   "file": "en_t.mp4",
+   "type": "video"
+  },
+  "u": {
+   "file": "en_u.mp4",
+   "type": "video"
+  },
+  "v": {
+   "file": "en_v.mp4",
+   "type": "video"
+  },
+  "w": {
+   "file": "en_w.mp4",
+   "type": "video"
+  },
+  "x": {
+   "file": "en_x.mp4",
+   "type": "video"
+  },
+  "y": {
+   "file": "en_y.mp4",
+   "type": "video"
+  },
+  "z": {
+   "file": "en_z.mp4",
+   "type": "video"
+  }
+ }
+}

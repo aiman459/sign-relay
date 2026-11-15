@@ -1,0 +1,245 @@
+{
+ "note": "Urdu letter order se mapping (filename ke number se). Dynamic letters abhi model mein nahi.",
+ "letters": {
+  "Alifmad": {
+   "idx": 1,
+   "ur": "آ",
+   "en": "Alif Madd",
+   "dynamic": true
+  },
+  "Alif": {
+   "idx": 2,
+   "ur": "ا",
+   "en": "Alif",
+   "dynamic": false
+  },
+  "Bay": {
+   "idx": 3,
+   "ur": "ب",
+   "en": "Bay",
+   "dynamic": false
+  },
+  "Pay": {
+   "idx": 4,
+   "ur": "پ",
+   "en": "Pay",
+   "dynamic": false
+  },
+  "Tay": {
+   "idx": 5,
+   "ur": "ت",
+   "en": "Tay",
+   "dynamic": false
+  },
+  "Taay": {
+   "idx": 6,
+   "ur": "ٹ",
+   "en": "Ttay",
+   "dynamic": false
+  },
+  "Say": {
+   "idx": 7,
+   "ur": "ث",
+   "en": "Say",
+   "dynamic": false
+  },
+  "Jeem": {
+   "idx": 8,
+   "ur": "ج",
+   "en": "Jeem",
+   "dynamic": true
+  },
+  "Chay": {
+   "idx": 9,
+   "ur": "چ",
+   "en": "Chay",
+   "dynamic": false
+  },
+  "1-Hay": {
+   "idx": 10,
+   "ur": "ح",
+   "en": "Bari Hay",
+   "dynamic": false
+  },
+  "Khay": {
+   "idx": 11,
+   "ur": "خ",
+   "en": "Khay",
+   "dynamic": false
+  },
+  "Dal": {
+   "idx": 12,
+   "ur": "د",
+   "en": "Daal",
+   "dynamic": false
+  },
+  "Daal": {
+   "idx": 13,
+   "ur": "ڈ",
+   "en": "Ddaal",
+   "dynamic": false
+  },
+  "Zaal": {
+   "idx": 14,
+   "ur": "ذ",
+   "en": "Zaal",
+   "dynamic": false
+  },
+  "Ray": {
+   "idx": 15,
+   "ur": "ر",
+   "en": "Ray",
+   "dynamic": false
+  },
+  "Aray": {
+   "idx": 16,
+   "ur": "ڑ",
+   "en": "Rray",
+   "dynamic": true
+  },
+  "Zay": {
+   "idx": 17,
+   "ur": "ز",
+   "en": "Zay",
+   "dynamic": false
+  },
+  "Zaey": {
+   "idx": 18,
+   "ur": "ژ",
+   "en": "Zhay",
+   "dynamic": false
+  },
+  "Seen": {
+   "idx": 19,
+   "ur": "س",
+   "en": "Seen",
+   "dynamic": false
+  },
+  "Sheen": {
+   "idx": 20,
+   "ur": "ش",
+   "en": "Sheen",
+   "dynamic": false
+  },
+  "Suad": {
+   "idx": 21,
+   "ur": "ص",
+   "en": "Suad",
+   "dynamic": false
+  },
+  "Zuad": {
+   "idx": 22,
+   "ur": "ض",
+   "en": "Zuad",
+   "dynamic": false
+  },
+  "Tuey": {
+   "idx": 23,
+   "ur": "ط",
+   "en": "Toay",
+   "dynamic": false
+  },
+  "Zuey": {
+   "idx": 24,
+   "ur": "ظ",
+   "en": "Zoay",
+   "dynamic": false
+  },
+  "Ain": {
+   "idx": 25,
+   "ur": "ع",
+   "en": "Ain",
+   "dynamic": false
+  },
+  "Ghain": {
+   "idx": 26,
+   "ur": "غ",
+   "en": "Ghain",
+   "dynamic": false
+  },
+  "Fay": {
+   "idx": 27,
+   "ur": "ف",
+   "en": "Fay",
+   "dynamic": false
+  },
+  "Kaf": {
+   "idx": 28,
+   "ur": "ق",
+   "en": "Qaaf",
+   "dynamic": false
+  },
+  "Kiaf": {
+   "idx": 29,
+   "ur": "ک",
+   "en": "Kaaf",
+   "dynamic": false
+  },
+  "Gaaf": {
+   "idx": 30,
+   "ur": "گ",
+   "en": "Gaaf",
+   "dynamic": false
+  },
+  "Lam": {
+   "idx": 31,
+   "ur": "ل",
+   "en": "Laam",
+   "dynamic": false
+  },
+  "Meem": {
+   "idx": 32,
+   "ur": "م",
+   "en": "Meem",
+   "dynamic": false
+  },
+  "Nuun": {
+   "idx": 33,
+   "ur": "ن",
+   "en": "Noon",
+   "dynamic": false
+  },
+  "Nuungh": {
+   "idx": 34,
+   "ur": "ں",
+   "en": "Noon Ghunna",
+   "dynamic": false
+  },
+  "Wao": {
+   "idx": 35,
+   "ur": "و",
+   "en": "Wao",
+   "dynamic": false
+  },
+  "2-Hay": {
+   "idx": 36,
+   "ur": "ہ",
+   "en": "Gol Hay",
+   "dynamic": true
+  },
+  "Dochahay": {
+   "idx": 37,
+   "ur": "ھ",
+   "en": "Do-chashmi Hay",
+   "dynamic": false
+  },
+  "Hamza": {
+   "idx": 38,
+   "ur": "ء",
+   "en": "Hamza",
+   "dynamic": false
+  },
+  "Cyeh": {
+   "idx": 39,
+   "ur": "ی",
+   "en": "Choti Yay",
+   "dynamic": false
+  },
+  "Byeh": {
+   "idx": 40,
+   "ur": "ے",
+   "en": "Bari Yay",
+   "dynamic": false
+  }
+ }
+}

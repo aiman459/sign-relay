@@ -1,0 +1,74 @@
+{
+ "letters": {
+  "drink": {
+   "en": "Drink",
+   "ur": "",
+   "dynamic": false
+  },
+  "eat": {
+   "en": "Eat",
+   "ur": "",
+   "dynamic": false
+  },
+  "good": {
+   "en": "Good",
+   "ur": "",
+   "dynamic": false
+  },
+  "hello": {
+   "en": "Hello",
+   "ur": "",
+   "dynamic": false
+  },
+  "help": {
+   "en": "Help",
+   "ur": "",
+   "dynamic": false
+  },
+  "hot": {
+   "en": "Hot",
+   "ur": "",
+   "dynamic": false
+  },
+  "morning": {
+   "en": "Morning",
+   "ur": "",
+   "dynamic": false
+  },
+  "name": {
+   "en": "Name",
+   "ur": "",
+   "dynamic": false
+  },
+  "none": {
+   "en": "None",
+   "ur": "",
+   "dynamic": false
+  },
+  "stay away": {
+   "en": "Stay away",
+   "ur": "",
+   "dynamic": false
+  },
+  "tea": {
+   "en": "Tea",
+   "ur": "",
+   "dynamic": false
+  },
+  "tommorow": {
+   "en": "Tomorrow",
+   "ur": "",
+   "dynamic": false
+  },
+  "water": {
+   "en": "Water",
+   "ur": "",
+   "dynamic": false
+  },
+  "yes": {
+   "en": "Yes",
+   "ur": "",
+   "dynamic": false
+  }
+ }
+}

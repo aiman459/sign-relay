@@ -1,0 +1,89 @@
+{
+ "letters": {
+  "drink": {
+   "en": "Drink",
+   "ur": "",
+   "dynamic": false
+  },
+  "eat": {
+   "en": "Eat",
+   "ur": "",
+   "dynamic": false
+  },
+  "friend": {
+   "en": "Friend",
+   "ur": "",
+   "dynamic": false
+  },
+  "good": {
+   "en": "Good",
+   "ur": "",
+   "dynamic": false
+  },
+  "hello": {
+   "en": "Hello",
+   "ur": "",
+   "dynamic": false
+  },
+  "help": {
+   "en": "Help",
+   "ur": "",
+   "dynamic": false
+  },
+  "medicine": {
+   "en": "Medicine",
+   "ur": "",
+   "dynamic": false
+  },
+  "morning": {
+   "en": "Morning",
+   "ur": "",
+   "dynamic": false
+  },
+  "name": {
+   "en": "Name",
+   "ur": "",
+   "dynamic": false
+  },
+  "none": {
+   "en": "(koi sign nahi)",
+   "ur": "",
+   "dynamic": false
+  },
+  "sick": {
+   "en": "Sick",
+   "ur": "",
+   "dynamic": false
+  },
+  "sorry": {
+   "en": "Sorry",
+   "ur": "",
+   "dynamic": false
+  },
+  "stay away": {
+   "en": "Stay away",
+   "ur": "",
+   "dynamic": false
+  },
+  "tea": {
+   "en": "Tea",
+   "ur": "",
+   "dynamic": false
+  },
+  "teacher": {
+   "en": "Teacher",
+   "ur": "",
+   "dynamic": false
+  },
+  "water": {
+   "en": "Water",
+   "ur": "",
+   "dynamic": false
+  },
+  "yes": {
+   "en": "Yes",
+   "ur": "",
+   "dynamic": false
+  }
+ }
+}
